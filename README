@@ -1,0 +1,19 @@
+TUTORIAL DE RUBY
+JOSÉ SANTORCUATO TAPIA
+CHILE-2017
+SANTORCUATO76@GMAIL.COM
+
+Este tutorial es para comenzar en la programación de Ruby, es únicamente Ruby, no es Ruby on Rails, posteriormente liberaré otro para Rails, lo primero es manejar el lenguaje.
+
+La mayoría de las aplicaciones demandan que tengas instalado Ruby en su versión más reciente, yo estoy utizando la 2.4.0.
+
+Necesitará manejar la consola de OSX o Linux, este tutorial fue porblado en un GNU-Linux Ubuntu 16.04.
+
+Para ejecutar solo debes descargar la carpeta o el archivo y ubicarlo donde desees, luego en la carpeta donde se encuentren los archivos.rb los llamarás así:
+
+ruby el_nombre_del_archivo.rb
+[presiona enter] y el ejemplo se ejecutará.
+
+Actualizaciones pronto!
+
+Gracias por colaborar.
