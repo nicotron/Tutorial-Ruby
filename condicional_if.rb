@@ -7,7 +7,7 @@ espacio = " \n"
   puts "Por favor, ingresa un número: "
   numero = gets
 
-  puts "Tu numero es #{numero}"
+  puts "Tu número es #{numero}"
 
   validador = Integer(numero)
 
