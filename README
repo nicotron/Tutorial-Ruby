@@ -7,7 +7,7 @@ Este tutorial es para comenzar en la programación de Ruby, es únicamente Ruby,
 
 La mayoría de las aplicaciones demandan que tengas instalado Ruby en su versión más reciente, yo estoy utizando la 2.4.0.
 
-Necesitará manejar la consola de OSX o Linux, este tutorial fue porblado en un GNU-Linux Ubuntu 16.04.
+Necesitará manejar la consola de OSX o Linux, este tutorial fue testeado en un GNU-Linux Ubuntu 16.04.
 
 Para ejecutar solo debes descargar la carpeta o el archivo y ubicarlo donde desees, luego en la carpeta donde se encuentren los archivos.rb los llamarás así:
 
