@@ -9,6 +9,8 @@ La mayoría de las aplicaciones demandan que tengas instalado Ruby en su versió
 
 Necesitará manejar la consola de OSX o Linux, este tutorial fue testeado en un GNU-Linux Ubuntu 16.04.
 
+Los archivos los puedes ejecutar en el orden que quieras, pero se propone como primer ejemplo el hola_mundo y como último el crear_ficha
+
 Para ejecutar solo debes descargar la carpeta o el archivo y ubicarlo donde desees, luego en la carpeta donde se encuentren los archivos.rb los llamarás así:
 
 ruby el_nombre_del_archivo.rb
