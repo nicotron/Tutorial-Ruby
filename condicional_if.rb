@@ -1,23 +1,22 @@
-bienvenida = "FECHAS - HORAS - \nTutorial de Ruby \nJosé Santorcuato Tapia\nChile 2017"
+bienvenida = "CONDICIONAL - IF - \nTutorial de Ruby \nJosé Santorcuato Tapia\nChile 2017"
   puts bienvenida
 
 espacio = " \n"
   puts espacio
 
+  puts "Por favor, ingresa un número: "
+  numero = gets
 
-time = Time.new
+  puts "Tu numero es #{numero}"
+
+  validador = Integer(numero)
+
+    if validador < 10
+    exito = "Valor ingresado es menor a 10"
+    puts exito
 
 
-hora = time.hour
-minuto = time.min
-segundo = time.sec
-hora_completa = "#{hora}:#{minuto}:#{segundo}"
-
-  puts hora_completa
-
-  ano = time.year
-  mes = time.month
-  dia = time.day
-  fecha_completa = "#{dia}/#{mes}/#{ano}"
-
-    puts fecha_completa
+    else
+      fracaso = "Valor ingresado es mayor a 10"
+      puts fracaso
+    end
