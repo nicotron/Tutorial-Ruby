@@ -18,18 +18,18 @@ espacio = " \n"
    if respuesta == "s"
 
 
-  registro = "Registro ingresado"
+  registro = "Teclas s presionada"
    puts registro
-
+  puts espacio
    else
-     registrono = "Registro no ingresado"
+     registrono = "Se ha presionado recla difernete a s"
 
      puts registrono
-
+  puts espacio
 
 
    end
-
+  puts espacio
 =begin
 
      Esta solución de usuar gets devolverías el \n (salto de carro) del enter,
