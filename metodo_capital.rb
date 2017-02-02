@@ -1,4 +1,4 @@
-bienvenida = "MÉTODO - CAPITAL  - \nTutorial de Ruby \nJosé Santorcuato Tapia\nChile 2017"
+bienvenida = "MÉTODO - CAPITAL  - \nTutorial de Ruby\nJosé Santorcuato Tapia\nChile 2017"
   puts bienvenida
 
 espacio = " \n"
@@ -11,4 +11,5 @@ espacio = " \n"
  puts "Hola #{nombre.capitalize}"
  end
 
-puts usuario("josé")#imprime José
+
+puts usuario("josé")# imprime José

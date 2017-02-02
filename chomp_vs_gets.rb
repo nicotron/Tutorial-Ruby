@@ -23,14 +23,16 @@ espacio = " \n"
 
    else
      registrono = "Registro no ingresado"
+
      puts registrono
+
 
 
    end
 
 =begin
 
-     Esta solución de usuar solo gets devolverías el \n (salto de carro) del enter,
+     Esta solución de usuar gets devolverías el \n (salto de carro) del enter,
      no podría evaluar si es "s". el agregar chomps hace que devuelva solo lo ingresado.
 
      texto = "Por favor, ingrese su nombre"
