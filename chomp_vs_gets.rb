@@ -10,7 +10,7 @@ espacio = " \n"
   texto = "Por favor, ingrese su nombre"
   puts texto
   nombre = gets
-  pregunta = "\nVamos a probar la diferencia entre chomp y gets\nPresiona la tecla s para probar, cualquier otra para salir\nVeamos las respuesta"
+  pregunta = "\nVamos a probar la diferencia entre chomp y gets\nPresiona la tecla s para probar, cualquier otra para salir"
   puts pregunta
   respuesta = gets.chomp
 
