@@ -8,3 +8,9 @@ nombres = Array.new(8, "Tutorial de Ruby")
 
   puts "#{nombres}"
   puts espacio
+
+
+aroma = 'vainilla'
+vector = [1976, aroma, 4.1, [true, false]]
+puts vector[1]#imprimirá chocolate
+puts vector[3]
