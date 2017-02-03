@@ -4,4 +4,4 @@ puts bienvenida
 espacio = " \n"
   puts espacio
 
-  system("chromium-browser http://www.arselectronicachile.blogspot.com")# camia chromium-browser por firefox
+  system("chromium-browser http://www.arselectronicachile.blogspot.com")# cambia chromium-browser por firefox
