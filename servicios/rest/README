@@ -1,0 +1,23 @@
+TUTORIAL RUBY 2017
+IMPLEMENTACIÓN WEBSERVICES SOAP-REST
+JOSÉ SANTORCUATO TAPIA
+santorcuato76@gmail.com
+CHILE 2017
+
+La carpeta rest contiene los archivos get.php, post.php, put.php y delete.phpg
+Debes ubicarlos en tu servidor, el archivo config.php contiene los datos de conexión 
+a tu base de datos.
+
+En la carpeta rest está el script de la base de datos:
+
+Personas.sql
+
+nombre base de datos : usuarios
+nombre de tabla : Personas
+
+
+El archivo soap_servidor.php debes ubicarlo junto a la carpeta lib en tu servidor.
+Es el archivo que sirve el servicio.
+
+
+
